@@ -35,7 +35,7 @@ A sample bash script is available in **fr_en_s** that runs an experiment with k=
 * To run the experiment with other datasets, change the values of `data_dir`, `source`, and `target` in **experiment.sh**
 
 
-## Evaluation Steps ##
+## Evaluation ##
 
 * To project a translation matrix using the extracted pairs, you will need a larger set of word embeddings (we used the top 50K words) and the implementation in [Improving zero-shot learning by mitigating the hubness problem](http://clic.cimec.unitn.it/~georgiana.dinu/down/)
 
