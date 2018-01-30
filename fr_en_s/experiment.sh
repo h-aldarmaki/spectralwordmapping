@@ -1,5 +1,11 @@
 #!/bin/bash
+#SBATCH -o log/fr_en_s.log
+#SBATCH -e log/fr_en_s.err
+#SBATCH --time 02-00:00:00
+#SBATCH -p defq,short,gpu -n 8
+#set -x 
 
+module load matlab
 export LC_ALL=en_US.utf8
 
 data_dir=fr_en_s
@@ -27,12 +33,12 @@ do
 
     mkdir -p $output_dir
 
-    matlab  -nojvm -r "path(path,'scripts'); extract_initial_correspondences('$data_dir/${source}.vectors', '$data_dir/${target}.vectors','$data_dir/${source}.words', '$data_dir/${target}.words', $k , '$dictionary'); exit" 
+    matlab  -nojvm -r "path(path,'scripts'); extract_initial_correspondences('$data_dir/${source}.vectors', '$data_dir/${target}.vectors','$data_dir/${source}.words', '$data_dir/${target}.words', $k , '$dictionary'); exit" < /dev/null 
 
     perl scripts/lex2index.pl $dictionary $data_dir/$source_voc $data_dir/$target_voc
      
     #run greedy mapping
-    matlab  -nojvm -r "path(path,'scripts'); greedy_mapping('$data_dir/${source}.vectors', '$data_dir/${target}.vectors','${dictionary}.ind', $n1, $n2, '$output_dir/${source}_${target}.map', $itr); exit"
+    matlab  -nojvm -r "path(path,'scripts'); greedy_mapping('$data_dir/${source}.vectors', '$data_dir/${target}.vectors','${dictionary}.ind', $n1, $n2, '$output_dir/${source}_${target}.map', $itr); exit" < /dev/null
 
     #replace indices with words
     perl scripts/index2lex.pl $output_dir/${source}_${target}.map $data_dir/$source_voc $data_dir/$target_voc

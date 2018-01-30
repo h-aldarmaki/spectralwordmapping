@@ -1,24 +1,1888 @@
 experiment 1 for k = 10
 Warning: No display specified.  You will not be able to display graphics on the screen.
-[?1h=
-                                        < M A T L A B (R) >
-                              Copyright 1984-2013 The MathWorks, Inc.
-                                R2013b (8.2.0.701) 64-bit (glnxa64)
-                                          August 13, 2013
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
 
  
 To get started, type one of these: helpwin, helpdesk, or demo.
 For product information, visit www.mathworks.com.
  
-[?1l>Warning: No display specified.  You will not be able to display graphics on the screen.
-[?1h=
-                                        < M A T L A B (R) >
-                              Copyright 1984-2013 The MathWorks, Inc.
-                                R2013b (8.2.0.701) 64-bit (glnxa64)
-                                          August 13, 2013
+Warning: No display specified.  You will not be able to display graphics on the screen.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
 
  
 To get started, type one of these: helpwin, helpdesk, or demo.
 For product information, visit www.mathworks.com.
  
 [greedy_mapping.m]: iteration=1
+cost of mapping=189285.557926  gain=3164134.022296
+[greedy_mapping.m]: iteration=2
+cost of mapping=168732.681674  gain=20552.876252
+[greedy_mapping.m]: iteration=3
+cost of mapping=160338.116756  gain=8394.564917
+[greedy_mapping.m]: iteration=4
+cost of mapping=154517.719465  gain=5820.397291
+[greedy_mapping.m]: iteration=5
+cost of mapping=148624.272737  gain=5893.446728
+[greedy_mapping.m]: iteration=6
+cost of mapping=142891.337603  gain=5732.935134
+[greedy_mapping.m]: iteration=7
+cost of mapping=138703.976580  gain=4187.361023
+[greedy_mapping.m]: iteration=8
+cost of mapping=136843.498012  gain=1860.478568
+[greedy_mapping.m]: iteration=9
+cost of mapping=136028.690850  gain=814.807162
+[greedy_mapping.m]: iteration=10
+cost of mapping=135497.905788  gain=530.785062
+[greedy_mapping.m]: iteration=11
+cost of mapping=135217.594180  gain=280.311607
+[greedy_mapping.m]: iteration=12
+cost of mapping=135123.424083  gain=94.170097
+[greedy_mapping.m]: iteration=13
+cost of mapping=135065.804511  gain=57.619572
+[greedy_mapping.m]: iteration=14
+cost of mapping=135039.309928  gain=26.494583
+[greedy_mapping.m]: iteration=15
+cost of mapping=135001.617784  gain=37.692143
+[greedy_mapping.m]: iteration=16
+cost of mapping=134972.030568  gain=29.587216
+[greedy_mapping.m]: iteration=17
+cost of mapping=134964.395647  gain=7.634921
+[greedy_mapping.m]: iteration=18
+cost of mapping=134952.474090  gain=11.921557
+[greedy_mapping.m]: iteration=19
+cost of mapping=134946.633005  gain=5.841085
+[greedy_mapping.m]: iteration=20
+cost of mapping=134937.868499  gain=8.764505
+experiment 2 for k = 10
+Warning: No display specified.  You will not be able to display graphics on the screen.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Warning: No display specified.  You will not be able to display graphics on the screen.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[greedy_mapping.m]: iteration=1
+cost of mapping=187493.037966  gain=3165926.542255
+[greedy_mapping.m]: iteration=2
+cost of mapping=166938.593355  gain=20554.444611
+[greedy_mapping.m]: iteration=3
+cost of mapping=157903.572826  gain=9035.020529
+[greedy_mapping.m]: iteration=4
+cost of mapping=152250.889193  gain=5652.683633
+[greedy_mapping.m]: iteration=5
+cost of mapping=146624.029619  gain=5626.859575
+[greedy_mapping.m]: iteration=6
+cost of mapping=141304.738062  gain=5319.291557
+[greedy_mapping.m]: iteration=7
+cost of mapping=138396.671017  gain=2908.067045
+[greedy_mapping.m]: iteration=8
+cost of mapping=136851.414705  gain=1545.256312
+[greedy_mapping.m]: iteration=9
+cost of mapping=136156.369146  gain=695.045559
+[greedy_mapping.m]: iteration=10
+cost of mapping=135815.628379  gain=340.740767
+[greedy_mapping.m]: iteration=11
+cost of mapping=135578.453740  gain=237.174639
+[greedy_mapping.m]: iteration=12
+cost of mapping=135328.307943  gain=250.145798
+[greedy_mapping.m]: iteration=13
+cost of mapping=135253.796506  gain=74.511437
+[greedy_mapping.m]: iteration=14
+cost of mapping=135203.458008  gain=50.338498
+[greedy_mapping.m]: iteration=15
+cost of mapping=135128.111540  gain=75.346468
+[greedy_mapping.m]: iteration=16
+cost of mapping=135088.203434  gain=39.908106
+[greedy_mapping.m]: iteration=17
+cost of mapping=135073.045343  gain=15.158091
+[greedy_mapping.m]: iteration=18
+cost of mapping=135050.884308  gain=22.161035
+[greedy_mapping.m]: iteration=19
+cost of mapping=135047.249284  gain=3.635024
+[greedy_mapping.m]: iteration=20
+cost of mapping=135022.666687  gain=24.582597
+experiment 3 for k = 10
+Warning: No display specified.  You will not be able to display graphics on the screen.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Warning: No display specified.  You will not be able to display graphics on the screen.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[greedy_mapping.m]: iteration=1
+cost of mapping=189876.099087  gain=3163543.481134
+[greedy_mapping.m]: iteration=2
+cost of mapping=166261.348923  gain=23614.750164
+[greedy_mapping.m]: iteration=3
+cost of mapping=152897.045032  gain=13364.303891
+[greedy_mapping.m]: iteration=4
+cost of mapping=143310.421389  gain=9586.623643
+[greedy_mapping.m]: iteration=5
+cost of mapping=138742.569991  gain=4567.851398
+[greedy_mapping.m]: iteration=6
+cost of mapping=136812.722802  gain=1929.847189
+[greedy_mapping.m]: iteration=7
+cost of mapping=135924.209524  gain=888.513278
+[greedy_mapping.m]: iteration=8
+cost of mapping=135478.474423  gain=445.735101
+[greedy_mapping.m]: iteration=9
+cost of mapping=135271.132982  gain=207.341441
+[greedy_mapping.m]: iteration=10
+cost of mapping=135145.264451  gain=125.868531
+[greedy_mapping.m]: iteration=11
+cost of mapping=135081.679021  gain=63.585430
+[greedy_mapping.m]: iteration=12
+cost of mapping=135031.972138  gain=49.706882
+[greedy_mapping.m]: iteration=13
+cost of mapping=134991.142216  gain=40.829923
+[greedy_mapping.m]: iteration=14
+cost of mapping=134974.106231  gain=17.035985
+[greedy_mapping.m]: iteration=15
+cost of mapping=134959.853121  gain=14.253109
+[greedy_mapping.m]: iteration=16
+cost of mapping=134939.611832  gain=20.241290
+[greedy_mapping.m]: iteration=17
+cost of mapping=134932.411165  gain=7.200667
+[greedy_mapping.m]: iteration=18
+cost of mapping=134932.395289  gain=0.015876
+[greedy_mapping.m]: iteration=19
+cost of mapping=134932.395289  gain=0.000000
+experiment 4 for k = 10
+Warning: No display specified.  You will not be able to display graphics on the screen.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Warning: No display specified.  You will not be able to display graphics on the screen.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[greedy_mapping.m]: iteration=1
+cost of mapping=188316.373529  gain=3165103.206692
+[greedy_mapping.m]: iteration=2
+cost of mapping=169906.199884  gain=18410.173645
+[greedy_mapping.m]: iteration=3
+cost of mapping=161245.492073  gain=8660.707811
+[greedy_mapping.m]: iteration=4
+cost of mapping=155239.041009  gain=6006.451063
+[greedy_mapping.m]: iteration=5
+cost of mapping=148911.726457  gain=6327.314552
+[greedy_mapping.m]: iteration=6
+cost of mapping=144309.362824  gain=4602.363633
+[greedy_mapping.m]: iteration=7
+cost of mapping=140529.491099  gain=3779.871725
+[greedy_mapping.m]: iteration=8
+cost of mapping=138189.585621  gain=2339.905478
+[greedy_mapping.m]: iteration=9
+cost of mapping=137166.741204  gain=1022.844417
+[greedy_mapping.m]: iteration=10
+cost of mapping=136620.559461  gain=546.181743
+[greedy_mapping.m]: iteration=11
+cost of mapping=136285.726837  gain=334.832624
+[greedy_mapping.m]: iteration=12
+cost of mapping=135989.509439  gain=296.217398
+[greedy_mapping.m]: iteration=13
+cost of mapping=135805.939267  gain=183.570172
+[greedy_mapping.m]: iteration=14
+cost of mapping=135495.051525  gain=310.887742
+[greedy_mapping.m]: iteration=15
+cost of mapping=135341.091672  gain=153.959853
+[greedy_mapping.m]: iteration=16
+cost of mapping=135224.914663  gain=116.177009
+[greedy_mapping.m]: iteration=17
+cost of mapping=135154.276125  gain=70.638538
+[greedy_mapping.m]: iteration=18
+cost of mapping=135108.099705  gain=46.176419
+[greedy_mapping.m]: iteration=19
+cost of mapping=135078.572270  gain=29.527436
+[greedy_mapping.m]: iteration=20
+cost of mapping=135051.167927  gain=27.404343
+experiment 5 for k = 10
+Warning: No display specified.  You will not be able to display graphics on the screen.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Warning: No display specified.  You will not be able to display graphics on the screen.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[greedy_mapping.m]: iteration=1
+cost of mapping=190520.493262  gain=3162899.086959
+[greedy_mapping.m]: iteration=2
+cost of mapping=173564.410487  gain=16956.082775
+[greedy_mapping.m]: iteration=3
+cost of mapping=167242.501043  gain=6321.909444
+[greedy_mapping.m]: iteration=4
+cost of mapping=164323.283693  gain=2919.217350
+[greedy_mapping.m]: iteration=5
+cost of mapping=162365.748835  gain=1957.534857
+[greedy_mapping.m]: iteration=6
+cost of mapping=160889.263270  gain=1476.485566
+[greedy_mapping.m]: iteration=7
+cost of mapping=159692.748164  gain=1196.515105
+[greedy_mapping.m]: iteration=8
+cost of mapping=158545.019720  gain=1147.728444
+[greedy_mapping.m]: iteration=9
+cost of mapping=157192.686219  gain=1352.333501
+[greedy_mapping.m]: iteration=10
+cost of mapping=155949.724709  gain=1242.961510
+[greedy_mapping.m]: iteration=11
+cost of mapping=154419.542242  gain=1530.182467
+[greedy_mapping.m]: iteration=12
+cost of mapping=153072.780576  gain=1346.761666
+[greedy_mapping.m]: iteration=13
+cost of mapping=151485.233836  gain=1587.546740
+[greedy_mapping.m]: iteration=14
+cost of mapping=148551.197204  gain=2934.036632
+[greedy_mapping.m]: iteration=15
+cost of mapping=144680.971962  gain=3870.225242
+[greedy_mapping.m]: iteration=16
+cost of mapping=141549.400764  gain=3131.571198
+[greedy_mapping.m]: iteration=17
+cost of mapping=138333.928114  gain=3215.472650
+[greedy_mapping.m]: iteration=18
+cost of mapping=136376.382124  gain=1957.545990
+[greedy_mapping.m]: iteration=19
+cost of mapping=135735.256234  gain=641.125890
+[greedy_mapping.m]: iteration=20
+cost of mapping=135413.793656  gain=321.462577
+experiment 6 for k = 10
+Warning: No display specified.  You will not be able to display graphics on the screen.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Warning: No display specified.  You will not be able to display graphics on the screen.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[greedy_mapping.m]: iteration=1
+cost of mapping=189747.473432  gain=3163672.106789
+[greedy_mapping.m]: iteration=2
+cost of mapping=172348.085941  gain=17399.387492
+[greedy_mapping.m]: iteration=3
+cost of mapping=161438.556183  gain=10909.529758
+[greedy_mapping.m]: iteration=4
+cost of mapping=154420.928509  gain=7017.627674
+[greedy_mapping.m]: iteration=5
+cost of mapping=149040.075274  gain=5380.853235
+[greedy_mapping.m]: iteration=6
+cost of mapping=145076.006334  gain=3964.068940
+[greedy_mapping.m]: iteration=7
+cost of mapping=142436.729227  gain=2639.277107
+[greedy_mapping.m]: iteration=8
+cost of mapping=140335.596321  gain=2101.132906
+[greedy_mapping.m]: iteration=9
+cost of mapping=139137.396368  gain=1198.199953
+[greedy_mapping.m]: iteration=10
+cost of mapping=138424.532499  gain=712.863869
+[greedy_mapping.m]: iteration=11
+cost of mapping=137602.325700  gain=822.206799
+[greedy_mapping.m]: iteration=12
+cost of mapping=136312.108484  gain=1290.217216
+[greedy_mapping.m]: iteration=13
+cost of mapping=135924.862712  gain=387.245772
+[greedy_mapping.m]: iteration=14
+cost of mapping=135765.727231  gain=159.135481
+[greedy_mapping.m]: iteration=15
+cost of mapping=135590.798126  gain=174.929104
+[greedy_mapping.m]: iteration=16
+cost of mapping=135503.573422  gain=87.224705
+[greedy_mapping.m]: iteration=17
+cost of mapping=135255.394824  gain=248.178598
+[greedy_mapping.m]: iteration=18
+cost of mapping=135138.102251  gain=117.292573
+[greedy_mapping.m]: iteration=19
+cost of mapping=135061.365511  gain=76.736739
+[greedy_mapping.m]: iteration=20
+cost of mapping=135006.150495  gain=55.215016
+experiment 7 for k = 10
+Warning: No display specified.  You will not be able to display graphics on the screen.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Warning: No display specified.  You will not be able to display graphics on the screen.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[greedy_mapping.m]: iteration=1
+cost of mapping=189555.862288  gain=3163863.717934
+[greedy_mapping.m]: iteration=2
+cost of mapping=172055.665850  gain=17500.196438
+[greedy_mapping.m]: iteration=3
+cost of mapping=164676.238228  gain=7379.427622
+[greedy_mapping.m]: iteration=4
+cost of mapping=159181.759815  gain=5494.478413
+[greedy_mapping.m]: iteration=5
+cost of mapping=155062.483938  gain=4119.275877
+[greedy_mapping.m]: iteration=6
+cost of mapping=151813.128833  gain=3249.355105
+[greedy_mapping.m]: iteration=7
+cost of mapping=148580.012180  gain=3233.116653
+[greedy_mapping.m]: iteration=8
+cost of mapping=143768.649341  gain=4811.362839
+[greedy_mapping.m]: iteration=9
+cost of mapping=139339.924311  gain=4428.725030
+[greedy_mapping.m]: iteration=10
+cost of mapping=137287.623533  gain=2052.300779
+[greedy_mapping.m]: iteration=11
+cost of mapping=136339.716847  gain=947.906686
+[greedy_mapping.m]: iteration=12
+cost of mapping=135915.488531  gain=424.228315
+[greedy_mapping.m]: iteration=13
+cost of mapping=135694.594991  gain=220.893540
+[greedy_mapping.m]: iteration=14
+cost of mapping=135590.371604  gain=104.223387
+[greedy_mapping.m]: iteration=15
+cost of mapping=135475.605253  gain=114.766351
+[greedy_mapping.m]: iteration=16
+cost of mapping=135208.307485  gain=267.297768
+[greedy_mapping.m]: iteration=17
+cost of mapping=135131.967743  gain=76.339743
+[greedy_mapping.m]: iteration=18
+cost of mapping=135095.203418  gain=36.764325
+[greedy_mapping.m]: iteration=19
+cost of mapping=135059.503185  gain=35.700233
+[greedy_mapping.m]: iteration=20
+cost of mapping=135023.404603  gain=36.098582
+experiment 8 for k = 10
+Warning: No display specified.  You will not be able to display graphics on the screen.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Warning: No display specified.  You will not be able to display graphics on the screen.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[greedy_mapping.m]: iteration=1
+cost of mapping=187064.303173  gain=3166355.277048
+[greedy_mapping.m]: iteration=2
+cost of mapping=167485.329519  gain=19578.973655
+[greedy_mapping.m]: iteration=3
+cost of mapping=159801.176909  gain=7684.152609
+[greedy_mapping.m]: iteration=4
+cost of mapping=154881.851880  gain=4919.325029
+[greedy_mapping.m]: iteration=5
+cost of mapping=150874.807980  gain=4007.043901
+[greedy_mapping.m]: iteration=6
+cost of mapping=146439.714070  gain=4435.093910
+[greedy_mapping.m]: iteration=7
+cost of mapping=142639.294824  gain=3800.419246
+[greedy_mapping.m]: iteration=8
+cost of mapping=140458.386161  gain=2180.908662
+[greedy_mapping.m]: iteration=9
+cost of mapping=138821.152553  gain=1637.233608
+[greedy_mapping.m]: iteration=10
+cost of mapping=137541.338297  gain=1279.814255
+[greedy_mapping.m]: iteration=11
+cost of mapping=136041.441559  gain=1499.896738
+[greedy_mapping.m]: iteration=12
+cost of mapping=135700.120547  gain=341.321013
+[greedy_mapping.m]: iteration=13
+cost of mapping=135497.525396  gain=202.595151
+[greedy_mapping.m]: iteration=14
+cost of mapping=135385.091892  gain=112.433504
+[greedy_mapping.m]: iteration=15
+cost of mapping=135329.946959  gain=55.144932
+[greedy_mapping.m]: iteration=16
+cost of mapping=135287.793341  gain=42.153618
+[greedy_mapping.m]: iteration=17
+cost of mapping=135239.931963  gain=47.861378
+[greedy_mapping.m]: iteration=18
+cost of mapping=135233.037992  gain=6.893971
+[greedy_mapping.m]: iteration=19
+cost of mapping=135209.770113  gain=23.267880
+[greedy_mapping.m]: iteration=20
+cost of mapping=135206.878935  gain=2.891178
+experiment 9 for k = 10
+Warning: No display specified.  You will not be able to display graphics on the screen.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Warning: No display specified.  You will not be able to display graphics on the screen.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[greedy_mapping.m]: iteration=1
+cost of mapping=188577.189719  gain=3164842.390503
+[greedy_mapping.m]: iteration=2
+cost of mapping=167228.919805  gain=21348.269914
+[greedy_mapping.m]: iteration=3
+cost of mapping=156556.947864  gain=10671.971941
+[greedy_mapping.m]: iteration=4
+cost of mapping=148668.609464  gain=7888.338400
+[greedy_mapping.m]: iteration=5
+cost of mapping=143928.789134  gain=4739.820330
+[greedy_mapping.m]: iteration=6
+cost of mapping=140360.247556  gain=3568.541578
+[greedy_mapping.m]: iteration=7
+cost of mapping=137978.415867  gain=2381.831690
+[greedy_mapping.m]: iteration=8
+cost of mapping=136552.553940  gain=1425.861927
+[greedy_mapping.m]: iteration=9
+cost of mapping=136021.514935  gain=531.039005
+[greedy_mapping.m]: iteration=10
+cost of mapping=135758.941574  gain=262.573360
+[greedy_mapping.m]: iteration=11
+cost of mapping=135620.985884  gain=137.955690
+[greedy_mapping.m]: iteration=12
+cost of mapping=135547.231156  gain=73.754728
+[greedy_mapping.m]: iteration=13
+cost of mapping=135479.124715  gain=68.106441
+[greedy_mapping.m]: iteration=14
+cost of mapping=135444.445811  gain=34.678904
+[greedy_mapping.m]: iteration=15
+cost of mapping=135408.133114  gain=36.312697
+[greedy_mapping.m]: iteration=16
+cost of mapping=135374.178814  gain=33.954300
+[greedy_mapping.m]: iteration=17
+cost of mapping=135356.954649  gain=17.224164
+[greedy_mapping.m]: iteration=18
+cost of mapping=135340.234055  gain=16.720595
+[greedy_mapping.m]: iteration=19
+cost of mapping=135340.228570  gain=0.005485
+[greedy_mapping.m]: iteration=20
+cost of mapping=135338.266392  gain=1.962177
+experiment 10 for k = 10
+Warning: No display specified.  You will not be able to display graphics on the screen.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Warning: No display specified.  You will not be able to display graphics on the screen.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[greedy_mapping.m]: iteration=1
+cost of mapping=187462.572550  gain=3165957.007671
+[greedy_mapping.m]: iteration=2
+cost of mapping=171033.665379  gain=16428.907171
+[greedy_mapping.m]: iteration=3
+cost of mapping=163798.387714  gain=7235.277665
+[greedy_mapping.m]: iteration=4
+cost of mapping=158626.020874  gain=5172.366841
+[greedy_mapping.m]: iteration=5
+cost of mapping=155235.631726  gain=3390.389148
+[greedy_mapping.m]: iteration=6
+cost of mapping=152497.318309  gain=2738.313417
+[greedy_mapping.m]: iteration=7
+cost of mapping=149662.652553  gain=2834.665756
+[greedy_mapping.m]: iteration=8
+cost of mapping=145887.384299  gain=3775.268254
+[greedy_mapping.m]: iteration=9
+cost of mapping=142619.721458  gain=3267.662840
+[greedy_mapping.m]: iteration=10
+cost of mapping=140232.629893  gain=2387.091565
+[greedy_mapping.m]: iteration=11
+cost of mapping=138744.537570  gain=1488.092323
+[greedy_mapping.m]: iteration=12
+cost of mapping=137395.685012  gain=1348.852558
+[greedy_mapping.m]: iteration=13
+cost of mapping=135984.126230  gain=1411.558781
+[greedy_mapping.m]: iteration=14
+cost of mapping=135476.100210  gain=508.026020
+[greedy_mapping.m]: iteration=15
+cost of mapping=135276.319400  gain=199.780810
+[greedy_mapping.m]: iteration=16
+cost of mapping=135164.964115  gain=111.355285
+[greedy_mapping.m]: iteration=17
+cost of mapping=135109.954798  gain=55.009317
+[greedy_mapping.m]: iteration=18
+cost of mapping=135083.518362  gain=26.436436
+[greedy_mapping.m]: iteration=19
+cost of mapping=135048.463954  gain=35.054409
+[greedy_mapping.m]: iteration=20
+cost of mapping=135031.417687  gain=17.046267
+experiment 1 for k = 20
+Warning: No display specified.  You will not be able to display graphics on the screen.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Warning: No display specified.  You will not be able to display graphics on the screen.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[greedy_mapping.m]: iteration=1
+cost of mapping=188991.021524  gain=3114755.983019
+[greedy_mapping.m]: iteration=2
+cost of mapping=169396.008333  gain=19595.013192
+[greedy_mapping.m]: iteration=3
+cost of mapping=162724.248650  gain=6671.759683
+[greedy_mapping.m]: iteration=4
+cost of mapping=159012.541756  gain=3711.706894
+[greedy_mapping.m]: iteration=5
+cost of mapping=156331.725845  gain=2680.815910
+[greedy_mapping.m]: iteration=6
+cost of mapping=153500.829168  gain=2830.896677
+[greedy_mapping.m]: iteration=7
+cost of mapping=150011.303622  gain=3489.525547
+[greedy_mapping.m]: iteration=8
+cost of mapping=146155.207937  gain=3856.095685
+[greedy_mapping.m]: iteration=9
+cost of mapping=141693.627800  gain=4461.580137
+[greedy_mapping.m]: iteration=10
+cost of mapping=138131.491946  gain=3562.135854
+[greedy_mapping.m]: iteration=11
+cost of mapping=136585.824475  gain=1545.667471
+[greedy_mapping.m]: iteration=12
+cost of mapping=135907.932700  gain=677.891775
+[greedy_mapping.m]: iteration=13
+cost of mapping=135606.602720  gain=301.329981
+[greedy_mapping.m]: iteration=14
+cost of mapping=135279.528362  gain=327.074357
+[greedy_mapping.m]: iteration=15
+cost of mapping=135149.275504  gain=130.252858
+[greedy_mapping.m]: iteration=16
+cost of mapping=135057.637445  gain=91.638059
+[greedy_mapping.m]: iteration=17
+cost of mapping=134977.506318  gain=80.131127
+[greedy_mapping.m]: iteration=18
+cost of mapping=134917.709172  gain=59.797146
+[greedy_mapping.m]: iteration=19
+cost of mapping=134891.009774  gain=26.699398
+[greedy_mapping.m]: iteration=20
+cost of mapping=134847.769044  gain=43.240729
+experiment 2 for k = 20
+Warning: No display specified.  You will not be able to display graphics on the screen.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Warning: No display specified.  You will not be able to display graphics on the screen.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[greedy_mapping.m]: iteration=1
+cost of mapping=188702.130421  gain=3115044.874122
+[greedy_mapping.m]: iteration=2
+cost of mapping=168944.736750  gain=19757.393671
+[greedy_mapping.m]: iteration=3
+cost of mapping=160662.048496  gain=8282.688254
+[greedy_mapping.m]: iteration=4
+cost of mapping=155335.544469  gain=5326.504028
+[greedy_mapping.m]: iteration=5
+cost of mapping=150900.754251  gain=4434.790218
+[greedy_mapping.m]: iteration=6
+cost of mapping=147204.747942  gain=3696.006310
+[greedy_mapping.m]: iteration=7
+cost of mapping=142441.362920  gain=4763.385022
+[greedy_mapping.m]: iteration=8
+cost of mapping=138497.026061  gain=3944.336859
+[greedy_mapping.m]: iteration=9
+cost of mapping=136652.249921  gain=1844.776140
+[greedy_mapping.m]: iteration=10
+cost of mapping=135766.653591  gain=885.596330
+[greedy_mapping.m]: iteration=11
+cost of mapping=135368.204263  gain=398.449328
+[greedy_mapping.m]: iteration=12
+cost of mapping=135162.408583  gain=205.795680
+[greedy_mapping.m]: iteration=13
+cost of mapping=135035.612041  gain=126.796542
+[greedy_mapping.m]: iteration=14
+cost of mapping=134958.688360  gain=76.923681
+[greedy_mapping.m]: iteration=15
+cost of mapping=134890.315287  gain=68.373073
+[greedy_mapping.m]: iteration=16
+cost of mapping=134853.417205  gain=36.898082
+[greedy_mapping.m]: iteration=17
+cost of mapping=134828.189419  gain=25.227786
+[greedy_mapping.m]: iteration=18
+cost of mapping=134828.707004  gain=-0.517585
+[greedy_mapping.m]: iteration=19
+cost of mapping=134811.254751  gain=17.452253
+[greedy_mapping.m]: iteration=20
+cost of mapping=134810.488023  gain=0.766728
+experiment 3 for k = 20
+Warning: No display specified.  You will not be able to display graphics on the screen.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Warning: No display specified.  You will not be able to display graphics on the screen.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[greedy_mapping.m]: iteration=1
+cost of mapping=189126.492102  gain=3114620.512441
+[greedy_mapping.m]: iteration=2
+cost of mapping=171534.539295  gain=17591.952807
+[greedy_mapping.m]: iteration=3
+cost of mapping=164808.437549  gain=6726.101746
+[greedy_mapping.m]: iteration=4
+cost of mapping=161929.268837  gain=2879.168711
+[greedy_mapping.m]: iteration=5
+cost of mapping=160014.996117  gain=1914.272720
+[greedy_mapping.m]: iteration=6
+cost of mapping=158375.278490  gain=1639.717627
+[greedy_mapping.m]: iteration=7
+cost of mapping=156977.209124  gain=1398.069365
+[greedy_mapping.m]: iteration=8
+cost of mapping=155975.817083  gain=1001.392041
+[greedy_mapping.m]: iteration=9
+cost of mapping=155050.194067  gain=925.623016
+[greedy_mapping.m]: iteration=10
+cost of mapping=154042.464406  gain=1007.729661
+[greedy_mapping.m]: iteration=11
+cost of mapping=153360.614306  gain=681.850100
+[greedy_mapping.m]: iteration=12
+cost of mapping=152601.858858  gain=758.755449
+[greedy_mapping.m]: iteration=13
+cost of mapping=151871.914206  gain=729.944651
+[greedy_mapping.m]: iteration=14
+cost of mapping=150898.040052  gain=973.874154
+[greedy_mapping.m]: iteration=15
+cost of mapping=149494.514637  gain=1403.525415
+[greedy_mapping.m]: iteration=16
+cost of mapping=148538.019757  gain=956.494879
+[greedy_mapping.m]: iteration=17
+cost of mapping=147716.683242  gain=821.336515
+[greedy_mapping.m]: iteration=18
+cost of mapping=146569.243764  gain=1147.439478
+[greedy_mapping.m]: iteration=19
+cost of mapping=144532.317557  gain=2036.926208
+[greedy_mapping.m]: iteration=20
+cost of mapping=139960.359980  gain=4571.957577
+experiment 4 for k = 20
+Warning: No display specified.  You will not be able to display graphics on the screen.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Warning: No display specified.  You will not be able to display graphics on the screen.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[greedy_mapping.m]: iteration=1
+cost of mapping=190327.346044  gain=3113419.658499
+[greedy_mapping.m]: iteration=2
+cost of mapping=170655.868247  gain=19671.477798
+[greedy_mapping.m]: iteration=3
+cost of mapping=161666.851172  gain=8989.017074
+[greedy_mapping.m]: iteration=4
+cost of mapping=155112.430255  gain=6554.420917
+[greedy_mapping.m]: iteration=5
+cost of mapping=148711.507336  gain=6400.922919
+[greedy_mapping.m]: iteration=6
+cost of mapping=142743.525235  gain=5967.982101
+[greedy_mapping.m]: iteration=7
+cost of mapping=138346.403524  gain=4397.121711
+[greedy_mapping.m]: iteration=8
+cost of mapping=136648.094373  gain=1698.309151
+[greedy_mapping.m]: iteration=9
+cost of mapping=135998.626714  gain=649.467659
+[greedy_mapping.m]: iteration=10
+cost of mapping=135523.015514  gain=475.611200
+[greedy_mapping.m]: iteration=11
+cost of mapping=135247.077339  gain=275.938175
+[greedy_mapping.m]: iteration=12
+cost of mapping=135026.806741  gain=220.270598
+[greedy_mapping.m]: iteration=13
+cost of mapping=134922.204721  gain=104.602021
+[greedy_mapping.m]: iteration=14
+cost of mapping=134893.629112  gain=28.575608
+[greedy_mapping.m]: iteration=15
+cost of mapping=134883.386587  gain=10.242526
+[greedy_mapping.m]: iteration=16
+cost of mapping=134862.753835  gain=20.632752
+[greedy_mapping.m]: iteration=17
+cost of mapping=134820.330918  gain=42.422916
+[greedy_mapping.m]: iteration=18
+cost of mapping=134794.683669  gain=25.647250
+[greedy_mapping.m]: iteration=19
+cost of mapping=134773.465846  gain=21.217823
+[greedy_mapping.m]: iteration=20
+cost of mapping=134763.785722  gain=9.680123
+experiment 5 for k = 20
+Warning: No display specified.  You will not be able to display graphics on the screen.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Warning: No display specified.  You will not be able to display graphics on the screen.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[greedy_mapping.m]: iteration=1
+cost of mapping=190871.463698  gain=3112875.540845
+[greedy_mapping.m]: iteration=2
+cost of mapping=171126.739402  gain=19744.724296
+[greedy_mapping.m]: iteration=3
+cost of mapping=162815.320570  gain=8311.418832
+[greedy_mapping.m]: iteration=4
+cost of mapping=158218.517363  gain=4596.803207
+[greedy_mapping.m]: iteration=5
+cost of mapping=155249.447259  gain=2969.070104
+[greedy_mapping.m]: iteration=6
+cost of mapping=153353.287512  gain=1896.159747
+[greedy_mapping.m]: iteration=7
+cost of mapping=151788.045903  gain=1565.241609
+[greedy_mapping.m]: iteration=8
+cost of mapping=150328.205966  gain=1459.839937
+[greedy_mapping.m]: iteration=9
+cost of mapping=148583.385211  gain=1744.820755
+[greedy_mapping.m]: iteration=10
+cost of mapping=146629.428153  gain=1953.957058
+[greedy_mapping.m]: iteration=11
+cost of mapping=144542.559453  gain=2086.868700
+[greedy_mapping.m]: iteration=12
+cost of mapping=142995.029674  gain=1547.529778
+[greedy_mapping.m]: iteration=13
+cost of mapping=140704.120889  gain=2290.908785
+[greedy_mapping.m]: iteration=14
+cost of mapping=137772.598937  gain=2931.521952
+[greedy_mapping.m]: iteration=15
+cost of mapping=136675.657868  gain=1096.941069
+[greedy_mapping.m]: iteration=16
+cost of mapping=136246.844717  gain=428.813151
+[greedy_mapping.m]: iteration=17
+cost of mapping=135821.113160  gain=425.731556
+[greedy_mapping.m]: iteration=18
+cost of mapping=135615.517089  gain=205.596071
+[greedy_mapping.m]: iteration=19
+cost of mapping=135550.522465  gain=64.994624
+[greedy_mapping.m]: iteration=20
+cost of mapping=135472.524825  gain=77.997640
+experiment 6 for k = 20
+Warning: No display specified.  You will not be able to display graphics on the screen.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Warning: No display specified.  You will not be able to display graphics on the screen.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[greedy_mapping.m]: iteration=1
+cost of mapping=190623.345217  gain=3113123.659326
+[greedy_mapping.m]: iteration=2
+cost of mapping=174401.896381  gain=16221.448836
+[greedy_mapping.m]: iteration=3
+cost of mapping=169113.395115  gain=5288.501267
+[greedy_mapping.m]: iteration=4
+cost of mapping=166321.359450  gain=2792.035664
+[greedy_mapping.m]: iteration=5
+cost of mapping=164738.217765  gain=1583.141686
+[greedy_mapping.m]: iteration=6
+cost of mapping=163596.486409  gain=1141.731355
+[greedy_mapping.m]: iteration=7
+cost of mapping=162861.541984  gain=734.944425
+[greedy_mapping.m]: iteration=8
+cost of mapping=162304.200751  gain=557.341234
+[greedy_mapping.m]: iteration=9
+cost of mapping=161824.828368  gain=479.372383
+[greedy_mapping.m]: iteration=10
+cost of mapping=161472.862756  gain=351.965612
+[greedy_mapping.m]: iteration=11
+cost of mapping=161329.511363  gain=143.351394
+[greedy_mapping.m]: iteration=12
+cost of mapping=161146.040663  gain=183.470699
+[greedy_mapping.m]: iteration=13
+cost of mapping=161000.256029  gain=145.784634
+[greedy_mapping.m]: iteration=14
+cost of mapping=160888.789811  gain=111.466218
+[greedy_mapping.m]: iteration=15
+cost of mapping=160701.942520  gain=186.847291
+[greedy_mapping.m]: iteration=16
+cost of mapping=160610.108988  gain=91.833532
+[greedy_mapping.m]: iteration=17
+cost of mapping=160544.956327  gain=65.152660
+[greedy_mapping.m]: iteration=18
+cost of mapping=160457.564926  gain=87.391402
+[greedy_mapping.m]: iteration=19
+cost of mapping=160363.455478  gain=94.109448
+[greedy_mapping.m]: iteration=20
+cost of mapping=160264.694841  gain=98.760637
+experiment 7 for k = 20
+Warning: No display specified.  You will not be able to display graphics on the screen.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Warning: No display specified.  You will not be able to display graphics on the screen.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[greedy_mapping.m]: iteration=1
+cost of mapping=189621.622443  gain=3114125.382099
+[greedy_mapping.m]: iteration=2
+cost of mapping=170615.520841  gain=19006.101602
+[greedy_mapping.m]: iteration=3
+cost of mapping=163352.055780  gain=7263.465061
+[greedy_mapping.m]: iteration=4
+cost of mapping=158989.303462  gain=4362.752318
+[greedy_mapping.m]: iteration=5
+cost of mapping=156228.445156  gain=2760.858306
+[greedy_mapping.m]: iteration=6
+cost of mapping=154055.473579  gain=2172.971578
+[greedy_mapping.m]: iteration=7
+cost of mapping=152307.669436  gain=1747.804143
+[greedy_mapping.m]: iteration=8
+cost of mapping=150911.345609  gain=1396.323828
+[greedy_mapping.m]: iteration=9
+cost of mapping=149884.117305  gain=1027.228304
+[greedy_mapping.m]: iteration=10
+cost of mapping=149000.781589  gain=883.335716
+[greedy_mapping.m]: iteration=11
+cost of mapping=147966.648457  gain=1034.133132
+[greedy_mapping.m]: iteration=12
+cost of mapping=147202.386964  gain=764.261493
+[greedy_mapping.m]: iteration=13
+cost of mapping=146199.782396  gain=1002.604568
+[greedy_mapping.m]: iteration=14
+cost of mapping=144888.463779  gain=1311.318617
+[greedy_mapping.m]: iteration=15
+cost of mapping=142833.768390  gain=2054.695390
+[greedy_mapping.m]: iteration=16
+cost of mapping=138584.420088  gain=4249.348302
+[greedy_mapping.m]: iteration=17
+cost of mapping=136385.763186  gain=2198.656902
+[greedy_mapping.m]: iteration=18
+cost of mapping=135609.719903  gain=776.043283
+[greedy_mapping.m]: iteration=19
+cost of mapping=135258.352265  gain=351.367639
+[greedy_mapping.m]: iteration=20
+cost of mapping=135157.342498  gain=101.009767
+experiment 8 for k = 20
+Warning: No display specified.  You will not be able to display graphics on the screen.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Warning: No display specified.  You will not be able to display graphics on the screen.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[greedy_mapping.m]: iteration=1
+cost of mapping=189209.956988  gain=3114537.047554
+[greedy_mapping.m]: iteration=2
+cost of mapping=170739.871424  gain=18470.085565
+[greedy_mapping.m]: iteration=3
+cost of mapping=161422.382918  gain=9317.488506
+[greedy_mapping.m]: iteration=4
+cost of mapping=152604.251771  gain=8818.131147
+[greedy_mapping.m]: iteration=5
+cost of mapping=144825.084340  gain=7779.167431
+[greedy_mapping.m]: iteration=6
+cost of mapping=139383.114186  gain=5441.970154
+[greedy_mapping.m]: iteration=7
+cost of mapping=136878.488873  gain=2504.625313
+[greedy_mapping.m]: iteration=8
+cost of mapping=135933.951506  gain=944.537367
+[greedy_mapping.m]: iteration=9
+cost of mapping=135455.800519  gain=478.150987
+[greedy_mapping.m]: iteration=10
+cost of mapping=135244.677872  gain=211.122647
+[greedy_mapping.m]: iteration=11
+cost of mapping=135120.579020  gain=124.098852
+[greedy_mapping.m]: iteration=12
+cost of mapping=135062.122131  gain=58.456889
+[greedy_mapping.m]: iteration=13
+cost of mapping=135016.104458  gain=46.017673
+[greedy_mapping.m]: iteration=14
+cost of mapping=135007.859697  gain=8.244761
+[greedy_mapping.m]: iteration=15
+cost of mapping=135007.545291  gain=0.314406
+[greedy_mapping.m]: iteration=16
+cost of mapping=134997.336373  gain=10.208918
+[greedy_mapping.m]: iteration=17
+cost of mapping=134985.710434  gain=11.625939
+[greedy_mapping.m]: iteration=18
+cost of mapping=134974.365080  gain=11.345355
+[greedy_mapping.m]: iteration=19
+cost of mapping=134970.691076  gain=3.674003
+[greedy_mapping.m]: iteration=20
+cost of mapping=134961.766431  gain=8.924645
+experiment 9 for k = 20
+Warning: No display specified.  You will not be able to display graphics on the screen.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Warning: No display specified.  You will not be able to display graphics on the screen.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[greedy_mapping.m]: iteration=1
+cost of mapping=190204.661032  gain=3113542.343511
+[greedy_mapping.m]: iteration=2
+cost of mapping=170502.107751  gain=19702.553281
+[greedy_mapping.m]: iteration=3
+cost of mapping=162810.029341  gain=7692.078410
+[greedy_mapping.m]: iteration=4
+cost of mapping=158164.587456  gain=4645.441885
+[greedy_mapping.m]: iteration=5
+cost of mapping=153265.561857  gain=4899.025599
+[greedy_mapping.m]: iteration=6
+cost of mapping=147564.065340  gain=5701.496517
+[greedy_mapping.m]: iteration=7
+cost of mapping=141509.062555  gain=6055.002785
+[greedy_mapping.m]: iteration=8
+cost of mapping=138369.761971  gain=3139.300584
+[greedy_mapping.m]: iteration=9
+cost of mapping=137037.017442  gain=1332.744529
+[greedy_mapping.m]: iteration=10
+cost of mapping=136353.175827  gain=683.841615
+[greedy_mapping.m]: iteration=11
+cost of mapping=136096.026981  gain=257.148846
+[greedy_mapping.m]: iteration=12
+cost of mapping=135907.208044  gain=188.818936
+[greedy_mapping.m]: iteration=13
+cost of mapping=135849.963973  gain=57.244071
+[greedy_mapping.m]: iteration=14
+cost of mapping=135786.355985  gain=63.607988
+[greedy_mapping.m]: iteration=15
+cost of mapping=135756.141049  gain=30.214936
+[greedy_mapping.m]: iteration=16
+cost of mapping=135690.273266  gain=65.867783
+[greedy_mapping.m]: iteration=17
+cost of mapping=135641.440773  gain=48.832493
+[greedy_mapping.m]: iteration=18
+cost of mapping=135631.052937  gain=10.387836
+[greedy_mapping.m]: iteration=19
+cost of mapping=135621.107847  gain=9.945091
+[greedy_mapping.m]: iteration=20
+cost of mapping=135608.115521  gain=12.992326
+experiment 10 for k = 20
+Warning: No display specified.  You will not be able to display graphics on the screen.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Warning: No display specified.  You will not be able to display graphics on the screen.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[greedy_mapping.m]: iteration=1
+cost of mapping=190405.954126  gain=3113341.050417
+[greedy_mapping.m]: iteration=2
+cost of mapping=172363.152227  gain=18042.801899
+[greedy_mapping.m]: iteration=3
+cost of mapping=165442.632056  gain=6920.520171
+[greedy_mapping.m]: iteration=4
+cost of mapping=161978.150577  gain=3464.481479
+[greedy_mapping.m]: iteration=5
+cost of mapping=159220.077297  gain=2758.073279
+[greedy_mapping.m]: iteration=6
+cost of mapping=156247.593112  gain=2972.484186
+[greedy_mapping.m]: iteration=7
+cost of mapping=153504.484611  gain=2743.108501
+[greedy_mapping.m]: iteration=8
+cost of mapping=150620.068796  gain=2884.415815
+[greedy_mapping.m]: iteration=9
+cost of mapping=147026.543872  gain=3593.524924
+[greedy_mapping.m]: iteration=10
+cost of mapping=142562.445129  gain=4464.098743
+[greedy_mapping.m]: iteration=11
+cost of mapping=138663.075424  gain=3899.369705
+[greedy_mapping.m]: iteration=12
+cost of mapping=136940.280753  gain=1722.794671
+[greedy_mapping.m]: iteration=13
+cost of mapping=136184.291683  gain=755.989069
+[greedy_mapping.m]: iteration=14
+cost of mapping=135826.918248  gain=357.373435
+[greedy_mapping.m]: iteration=15
+cost of mapping=135627.757737  gain=199.160511
+[greedy_mapping.m]: iteration=16
+cost of mapping=135402.203912  gain=225.553825
+[greedy_mapping.m]: iteration=17
+cost of mapping=135331.115496  gain=71.088416
+[greedy_mapping.m]: iteration=18
+cost of mapping=135283.539957  gain=47.575539
+[greedy_mapping.m]: iteration=19
+cost of mapping=135226.202517  gain=57.337440
+[greedy_mapping.m]: iteration=20
+cost of mapping=135200.390613  gain=25.811904
+experiment 1 for k = 30
+Warning: No display specified.  You will not be able to display graphics on the screen.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Warning: No display specified.  You will not be able to display graphics on the screen.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[greedy_mapping.m]: iteration=1
+cost of mapping=186854.962768  gain=3146894.085714
+[greedy_mapping.m]: iteration=2
+cost of mapping=168070.177326  gain=18784.785442
+[greedy_mapping.m]: iteration=3
+cost of mapping=159125.501862  gain=8944.675464
+[greedy_mapping.m]: iteration=4
+cost of mapping=150534.892601  gain=8590.609261
+[greedy_mapping.m]: iteration=5
+cost of mapping=141947.975311  gain=8586.917290
+[greedy_mapping.m]: iteration=6
+cost of mapping=137832.813724  gain=4115.161587
+[greedy_mapping.m]: iteration=7
+cost of mapping=136434.848793  gain=1397.964931
+[greedy_mapping.m]: iteration=8
+cost of mapping=135809.282373  gain=625.566420
+[greedy_mapping.m]: iteration=9
+cost of mapping=135491.529811  gain=317.752562
+[greedy_mapping.m]: iteration=10
+cost of mapping=135277.545202  gain=213.984609
+[greedy_mapping.m]: iteration=11
+cost of mapping=135129.558634  gain=147.986568
+[greedy_mapping.m]: iteration=12
+cost of mapping=135107.171230  gain=22.387404
+[greedy_mapping.m]: iteration=13
+cost of mapping=135075.658462  gain=31.512768
+[greedy_mapping.m]: iteration=14
+cost of mapping=135029.912962  gain=45.745500
+[greedy_mapping.m]: iteration=15
+cost of mapping=135022.546327  gain=7.366636
+[greedy_mapping.m]: iteration=16
+cost of mapping=135017.145273  gain=5.401054
+[greedy_mapping.m]: iteration=17
+cost of mapping=134988.185173  gain=28.960100
+[greedy_mapping.m]: iteration=18
+cost of mapping=134979.265723  gain=8.919450
+[greedy_mapping.m]: iteration=19
+cost of mapping=134975.949250  gain=3.316473
+[greedy_mapping.m]: iteration=20
+cost of mapping=134960.810485  gain=15.138765
+experiment 2 for k = 30
+Warning: No display specified.  You will not be able to display graphics on the screen.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Warning: No display specified.  You will not be able to display graphics on the screen.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[greedy_mapping.m]: iteration=1
+cost of mapping=185249.880221  gain=3148499.168261
+[greedy_mapping.m]: iteration=2
+cost of mapping=162661.026962  gain=22588.853259
+[greedy_mapping.m]: iteration=3
+cost of mapping=148888.371358  gain=13772.655604
+[greedy_mapping.m]: iteration=4
+cost of mapping=141850.410445  gain=7037.960914
+[greedy_mapping.m]: iteration=5
+cost of mapping=138086.075951  gain=3764.334494
+[greedy_mapping.m]: iteration=6
+cost of mapping=136642.803895  gain=1443.272057
+[greedy_mapping.m]: iteration=7
+cost of mapping=135847.608996  gain=795.194899
+[greedy_mapping.m]: iteration=8
+cost of mapping=135494.242161  gain=353.366834
+[greedy_mapping.m]: iteration=9
+cost of mapping=135304.944295  gain=189.297866
+[greedy_mapping.m]: iteration=10
+cost of mapping=135223.299425  gain=81.644870
+[greedy_mapping.m]: iteration=11
+cost of mapping=135181.363680  gain=41.935746
+[greedy_mapping.m]: iteration=12
+cost of mapping=135161.186666  gain=20.177013
+[greedy_mapping.m]: iteration=13
+cost of mapping=135146.570029  gain=14.616637
+[greedy_mapping.m]: iteration=14
+cost of mapping=135143.988922  gain=2.581107
+[greedy_mapping.m]: iteration=15
+cost of mapping=135129.441639  gain=14.547283
+[greedy_mapping.m]: iteration=16
+cost of mapping=135120.930188  gain=8.511451
+[greedy_mapping.m]: iteration=17
+cost of mapping=135114.477084  gain=6.453104
+[greedy_mapping.m]: iteration=18
+cost of mapping=135107.759954  gain=6.717130
+[greedy_mapping.m]: iteration=19
+cost of mapping=135088.460593  gain=19.299360
+[greedy_mapping.m]: iteration=20
+cost of mapping=135087.692220  gain=0.768373
+experiment 3 for k = 30
+Warning: No display specified.  You will not be able to display graphics on the screen.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Warning: No display specified.  You will not be able to display graphics on the screen.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[greedy_mapping.m]: iteration=1
+cost of mapping=188690.053363  gain=3145058.995119
+[greedy_mapping.m]: iteration=2
+cost of mapping=169814.868343  gain=18875.185020
+[greedy_mapping.m]: iteration=3
+cost of mapping=161905.362656  gain=7909.505687
+[greedy_mapping.m]: iteration=4
+cost of mapping=157416.147171  gain=4489.215485
+[greedy_mapping.m]: iteration=5
+cost of mapping=154280.349597  gain=3135.797574
+[greedy_mapping.m]: iteration=6
+cost of mapping=151922.497462  gain=2357.852136
+[greedy_mapping.m]: iteration=7
+cost of mapping=150075.432738  gain=1847.064724
+[greedy_mapping.m]: iteration=8
+cost of mapping=148719.566525  gain=1355.866213
+[greedy_mapping.m]: iteration=9
+cost of mapping=147328.218877  gain=1391.347648
+[greedy_mapping.m]: iteration=10
+cost of mapping=144951.026677  gain=2377.192200
+[greedy_mapping.m]: iteration=11
+cost of mapping=141614.057252  gain=3336.969425
+[greedy_mapping.m]: iteration=12
+cost of mapping=138713.463246  gain=2900.594006
+[greedy_mapping.m]: iteration=13
+cost of mapping=137076.166407  gain=1637.296839
+[greedy_mapping.m]: iteration=14
+cost of mapping=135793.535552  gain=1282.630856
+[greedy_mapping.m]: iteration=15
+cost of mapping=135388.773901  gain=404.761651
+[greedy_mapping.m]: iteration=16
+cost of mapping=135251.233242  gain=137.540659
+[greedy_mapping.m]: iteration=17
+cost of mapping=135193.813196  gain=57.420047
+[greedy_mapping.m]: iteration=18
+cost of mapping=135129.830044  gain=63.983152
+[greedy_mapping.m]: iteration=19
+cost of mapping=135068.862073  gain=60.967971
+[greedy_mapping.m]: iteration=20
+cost of mapping=135054.264993  gain=14.597080
+experiment 4 for k = 30
+Warning: No display specified.  You will not be able to display graphics on the screen.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Warning: No display specified.  You will not be able to display graphics on the screen.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[greedy_mapping.m]: iteration=1
+cost of mapping=183887.851121  gain=3149861.197361
+[greedy_mapping.m]: iteration=2
+cost of mapping=165196.065081  gain=18691.786040
+[greedy_mapping.m]: iteration=3
+cost of mapping=157714.852697  gain=7481.212384
+[greedy_mapping.m]: iteration=4
+cost of mapping=154408.795381  gain=3306.057316
+[greedy_mapping.m]: iteration=5
+cost of mapping=151930.617595  gain=2478.177785
+[greedy_mapping.m]: iteration=6
+cost of mapping=149246.078927  gain=2684.538668
+[greedy_mapping.m]: iteration=7
+cost of mapping=147265.895684  gain=1980.183243
+[greedy_mapping.m]: iteration=8
+cost of mapping=145452.011671  gain=1813.884013
+[greedy_mapping.m]: iteration=9
+cost of mapping=143595.500764  gain=1856.510907
+[greedy_mapping.m]: iteration=10
+cost of mapping=141000.268694  gain=2595.232070
+[greedy_mapping.m]: iteration=11
+cost of mapping=138038.174961  gain=2962.093733
+[greedy_mapping.m]: iteration=12
+cost of mapping=136037.393448  gain=2000.781513
+[greedy_mapping.m]: iteration=13
+cost of mapping=135373.659405  gain=663.734044
+[greedy_mapping.m]: iteration=14
+cost of mapping=135177.879337  gain=195.780067
+[greedy_mapping.m]: iteration=15
+cost of mapping=135057.885680  gain=119.993658
+[greedy_mapping.m]: iteration=16
+cost of mapping=134955.512212  gain=102.373468
+[greedy_mapping.m]: iteration=17
+cost of mapping=134938.779974  gain=16.732238
+[greedy_mapping.m]: iteration=18
+cost of mapping=134923.205950  gain=15.574024
+[greedy_mapping.m]: iteration=19
+cost of mapping=134900.492574  gain=22.713376
+[greedy_mapping.m]: iteration=20
+cost of mapping=134888.681995  gain=11.810579
+experiment 5 for k = 30
+Warning: No display specified.  You will not be able to display graphics on the screen.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Warning: No display specified.  You will not be able to display graphics on the screen.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[greedy_mapping.m]: iteration=1
+cost of mapping=187984.850184  gain=3145764.198298
+[greedy_mapping.m]: iteration=2
+cost of mapping=166502.025647  gain=21482.824536
+[greedy_mapping.m]: iteration=3
+cost of mapping=156547.528718  gain=9954.496929
+[greedy_mapping.m]: iteration=4
+cost of mapping=149232.193711  gain=7315.335007
+[greedy_mapping.m]: iteration=5
+cost of mapping=143693.389344  gain=5538.804367
+[greedy_mapping.m]: iteration=6
+cost of mapping=138819.263088  gain=4874.126256
+[greedy_mapping.m]: iteration=7
+cost of mapping=137259.828323  gain=1559.434765
+[greedy_mapping.m]: iteration=8
+cost of mapping=136604.943548  gain=654.884774
+[greedy_mapping.m]: iteration=9
+cost of mapping=136250.470482  gain=354.473067
+[greedy_mapping.m]: iteration=10
+cost of mapping=135888.839008  gain=361.631474
+[greedy_mapping.m]: iteration=11
+cost of mapping=135715.551616  gain=173.287392
+[greedy_mapping.m]: iteration=12
+cost of mapping=135587.298928  gain=128.252687
+[greedy_mapping.m]: iteration=13
+cost of mapping=135500.829359  gain=86.469570
+[greedy_mapping.m]: iteration=14
+cost of mapping=135398.625155  gain=102.204204
+[greedy_mapping.m]: iteration=15
+cost of mapping=135372.688420  gain=25.936735
+[greedy_mapping.m]: iteration=16
+cost of mapping=135340.716993  gain=31.971426
+[greedy_mapping.m]: iteration=17
+cost of mapping=135318.310314  gain=22.406679
+[greedy_mapping.m]: iteration=18
+cost of mapping=135297.639507  gain=20.670808
+[greedy_mapping.m]: iteration=19
+cost of mapping=135296.520235  gain=1.119271
+[greedy_mapping.m]: iteration=20
+cost of mapping=135281.460191  gain=15.060044
+experiment 6 for k = 30
+Warning: No display specified.  You will not be able to display graphics on the screen.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Warning: No display specified.  You will not be able to display graphics on the screen.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[greedy_mapping.m]: iteration=1
+cost of mapping=185324.180383  gain=3148424.868099
+[greedy_mapping.m]: iteration=2
+cost of mapping=166298.342356  gain=19025.838027
+[greedy_mapping.m]: iteration=3
+cost of mapping=156758.114601  gain=9540.227755
+[greedy_mapping.m]: iteration=4
+cost of mapping=150405.655060  gain=6352.459541
+[greedy_mapping.m]: iteration=5
+cost of mapping=144150.105329  gain=6255.549731
+[greedy_mapping.m]: iteration=6
+cost of mapping=139637.231207  gain=4512.874122
+[greedy_mapping.m]: iteration=7
+cost of mapping=137498.723052  gain=2138.508156
+[greedy_mapping.m]: iteration=8
+cost of mapping=136530.632247  gain=968.090805
+[greedy_mapping.m]: iteration=9
+cost of mapping=136043.849561  gain=486.782686
+[greedy_mapping.m]: iteration=10
+cost of mapping=135584.982667  gain=458.866894
+[greedy_mapping.m]: iteration=11
+cost of mapping=135406.785294  gain=178.197372
+[greedy_mapping.m]: iteration=12
+cost of mapping=135240.095865  gain=166.689429
+[greedy_mapping.m]: iteration=13
+cost of mapping=135146.228854  gain=93.867011
+[greedy_mapping.m]: iteration=14
+cost of mapping=135090.946915  gain=55.281940
+[greedy_mapping.m]: iteration=15
+cost of mapping=135065.012451  gain=25.934464
+[greedy_mapping.m]: iteration=16
+cost of mapping=135048.345847  gain=16.666604
+[greedy_mapping.m]: iteration=17
+cost of mapping=135023.344476  gain=25.001372
+[greedy_mapping.m]: iteration=18
+cost of mapping=134982.228632  gain=41.115843
+[greedy_mapping.m]: iteration=19
+cost of mapping=134958.411037  gain=23.817595
+[greedy_mapping.m]: iteration=20
+cost of mapping=134933.156574  gain=25.254463
+experiment 7 for k = 30
+Warning: No display specified.  You will not be able to display graphics on the screen.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Warning: No display specified.  You will not be able to display graphics on the screen.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[greedy_mapping.m]: iteration=1
+cost of mapping=185294.184772  gain=3148454.863710
+[greedy_mapping.m]: iteration=2
+cost of mapping=164627.974825  gain=20666.209947
+[greedy_mapping.m]: iteration=3
+cost of mapping=152990.997540  gain=11636.977285
+[greedy_mapping.m]: iteration=4
+cost of mapping=144917.760322  gain=8073.237218
+[greedy_mapping.m]: iteration=5
+cost of mapping=139701.972753  gain=5215.787569
+[greedy_mapping.m]: iteration=6
+cost of mapping=137239.863636  gain=2462.109118
+[greedy_mapping.m]: iteration=7
+cost of mapping=136211.857351  gain=1028.006285
+[greedy_mapping.m]: iteration=8
+cost of mapping=135723.258264  gain=488.599087
+[greedy_mapping.m]: iteration=9
+cost of mapping=135483.230661  gain=240.027602
+[greedy_mapping.m]: iteration=10
+cost of mapping=135397.675069  gain=85.555593
+[greedy_mapping.m]: iteration=11
+cost of mapping=135322.502266  gain=75.172803
+[greedy_mapping.m]: iteration=12
+cost of mapping=135298.260634  gain=24.241632
+[greedy_mapping.m]: iteration=13
+cost of mapping=135253.751704  gain=44.508930
+[greedy_mapping.m]: iteration=14
+cost of mapping=135222.422464  gain=31.329240
+[greedy_mapping.m]: iteration=15
+cost of mapping=135207.627523  gain=14.794941
+[greedy_mapping.m]: iteration=16
+cost of mapping=135185.178866  gain=22.448656
+[greedy_mapping.m]: iteration=17
+cost of mapping=135181.208537  gain=3.970329
+[greedy_mapping.m]: iteration=18
+cost of mapping=135177.305900  gain=3.902637
+[greedy_mapping.m]: iteration=19
+cost of mapping=135159.802171  gain=17.503729
+[greedy_mapping.m]: iteration=20
+cost of mapping=135159.451711  gain=0.350461
+experiment 8 for k = 30
+Warning: No display specified.  You will not be able to display graphics on the screen.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Warning: No display specified.  You will not be able to display graphics on the screen.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[greedy_mapping.m]: iteration=1
+cost of mapping=185777.415017  gain=3147971.633465
+[greedy_mapping.m]: iteration=2
+cost of mapping=165444.285889  gain=20333.129129
+[greedy_mapping.m]: iteration=3
+cost of mapping=154638.840462  gain=10805.445427
+[greedy_mapping.m]: iteration=4
+cost of mapping=144793.745558  gain=9845.094904
+[greedy_mapping.m]: iteration=5
+cost of mapping=139222.829688  gain=5570.915870
+[greedy_mapping.m]: iteration=6
+cost of mapping=137046.482515  gain=2176.347173
+[greedy_mapping.m]: iteration=7
+cost of mapping=136189.572400  gain=856.910115
+[greedy_mapping.m]: iteration=8
+cost of mapping=135865.866183  gain=323.706217
+[greedy_mapping.m]: iteration=9
+cost of mapping=135655.584477  gain=210.281706
+[greedy_mapping.m]: iteration=10
+cost of mapping=135609.017797  gain=46.566680
+[greedy_mapping.m]: iteration=11
+cost of mapping=135569.121870  gain=39.895927
+[greedy_mapping.m]: iteration=12
+cost of mapping=135520.717329  gain=48.404541
+[greedy_mapping.m]: iteration=13
+cost of mapping=135486.848339  gain=33.868990
+[greedy_mapping.m]: iteration=14
+cost of mapping=135484.966991  gain=1.881348
+[greedy_mapping.m]: iteration=15
+cost of mapping=135425.438130  gain=59.528861
+[greedy_mapping.m]: iteration=16
+cost of mapping=135187.749927  gain=237.688203
+[greedy_mapping.m]: iteration=17
+cost of mapping=135109.694108  gain=78.055819
+[greedy_mapping.m]: iteration=18
+cost of mapping=135082.615046  gain=27.079062
+[greedy_mapping.m]: iteration=19
+cost of mapping=135059.090438  gain=23.524608
+[greedy_mapping.m]: iteration=20
+cost of mapping=135025.397900  gain=33.692538
+experiment 9 for k = 30
+Warning: No display specified.  You will not be able to display graphics on the screen.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Warning: No display specified.  You will not be able to display graphics on the screen.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[greedy_mapping.m]: iteration=1
+cost of mapping=186983.438307  gain=3146765.610175
+[greedy_mapping.m]: iteration=2
+cost of mapping=164611.242073  gain=22372.196234
+[greedy_mapping.m]: iteration=3
+cost of mapping=154625.034526  gain=9986.207547
+[greedy_mapping.m]: iteration=4
+cost of mapping=145629.293645  gain=8995.740881
+[greedy_mapping.m]: iteration=5
+cost of mapping=139805.649788  gain=5823.643857
+[greedy_mapping.m]: iteration=6
+cost of mapping=137310.255717  gain=2495.394071
+[greedy_mapping.m]: iteration=7
+cost of mapping=136188.185431  gain=1122.070286
+[greedy_mapping.m]: iteration=8
+cost of mapping=135711.428333  gain=476.757099
+[greedy_mapping.m]: iteration=9
+cost of mapping=135438.634013  gain=272.794319
+[greedy_mapping.m]: iteration=10
+cost of mapping=135266.950556  gain=171.683457
+[greedy_mapping.m]: iteration=11
+cost of mapping=135154.805495  gain=112.145061
+[greedy_mapping.m]: iteration=12
+cost of mapping=135126.546671  gain=28.258824
+[greedy_mapping.m]: iteration=13
+cost of mapping=135085.350015  gain=41.196655
+[greedy_mapping.m]: iteration=14
+cost of mapping=135066.942916  gain=18.407099
+[greedy_mapping.m]: iteration=15
+cost of mapping=135058.681601  gain=8.261316
+[greedy_mapping.m]: iteration=16
+cost of mapping=135052.367216  gain=6.314384
+[greedy_mapping.m]: iteration=17
+cost of mapping=135049.625195  gain=2.742022
+[greedy_mapping.m]: iteration=18
+cost of mapping=135048.492053  gain=1.133142
+[greedy_mapping.m]: iteration=19
+cost of mapping=135047.709645  gain=0.782408
+[greedy_mapping.m]: iteration=20
+cost of mapping=135047.144364  gain=0.565281
+experiment 10 for k = 30
+Warning: No display specified.  You will not be able to display graphics on the screen.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Warning: No display specified.  You will not be able to display graphics on the screen.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[greedy_mapping.m]: iteration=1
+cost of mapping=185422.692436  gain=3148326.356046
+[greedy_mapping.m]: iteration=2
+cost of mapping=161889.970301  gain=23532.722135
+[greedy_mapping.m]: iteration=3
+cost of mapping=148840.260523  gain=13049.709778
+[greedy_mapping.m]: iteration=4
+cost of mapping=141041.854857  gain=7798.405666
+[greedy_mapping.m]: iteration=5
+cost of mapping=137381.025837  gain=3660.829019
+[greedy_mapping.m]: iteration=6
+cost of mapping=136346.655118  gain=1034.370720
+[greedy_mapping.m]: iteration=7
+cost of mapping=135969.316150  gain=377.338968
+[greedy_mapping.m]: iteration=8
+cost of mapping=135789.586432  gain=179.729718
+[greedy_mapping.m]: iteration=9
+cost of mapping=135689.888249  gain=99.698183
+[greedy_mapping.m]: iteration=10
+cost of mapping=135639.857583  gain=50.030666
+[greedy_mapping.m]: iteration=11
+cost of mapping=135605.735153  gain=34.122431
+[greedy_mapping.m]: iteration=12
+cost of mapping=135536.185419  gain=69.549733
+[greedy_mapping.m]: iteration=13
+cost of mapping=135508.015086  gain=28.170333
+[greedy_mapping.m]: iteration=14
+cost of mapping=135485.632794  gain=22.382292
+[greedy_mapping.m]: iteration=15
+cost of mapping=135446.408142  gain=39.224652
+[greedy_mapping.m]: iteration=16
+cost of mapping=135419.790843  gain=26.617299
+[greedy_mapping.m]: iteration=17
+cost of mapping=135393.056656  gain=26.734188
+[greedy_mapping.m]: iteration=18
+cost of mapping=135391.366821  gain=1.689835
+[greedy_mapping.m]: iteration=19
+cost of mapping=135391.080346  gain=0.286475
+[greedy_mapping.m]: iteration=20
+cost of mapping=135383.375098  gain=7.705248
