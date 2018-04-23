@@ -1,12 +1,4 @@
 #!/bin/bash
-#SBATCH -o log/fr_en_s.log
-#SBATCH -e log/fr_en_s.err
-#SBATCH --time 02-00:00:00
-#SBATCH -p defq,short,gpu -n 8
-#set -x 
-
-module load matlab
-export LC_ALL=en_US.utf8
 
 data_dir=fr_en_s
 n1=2000
