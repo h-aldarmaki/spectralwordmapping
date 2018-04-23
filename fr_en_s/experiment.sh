@@ -14,9 +14,6 @@ do
 
     output_dir=$data_dir/output/k${k}_$num
     dictionary=$output_dir/spectral_map_k${k}.lex
-    #source_vec=$data_dir/test/FR.apw.200x_100.vec.50K
-    #target_vec=$data_dir/test/EN.apw.199x.5M_100.vec.50K
-    #test_set=$data_dir/test/final_test_dictionary.txt
 
     source=FR.afp.5M_100.2000
     target=EN.apw.5M_100.2000
