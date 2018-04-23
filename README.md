@@ -3,11 +3,14 @@
 A Matlab implementation of the spectral word mapping method described in [Unsupervised Word Mapping Unising Structural Similarities in Monolingual Embeddings](https://arxiv.org/pdf/1712.06961.pdf)
 
 ```
-@article{aldarmaki2017unsupervised,
-  title={Unsupervised Word Mapping Using Structural Similarities in Monolingual Embeddings},
-  author={Aldarmaki, Hanan and Mohan, Mahesh and Diab, Mona},
-  journal={arXiv preprint arXiv:1712.06961},
-  year={2017}
+@article{TACL1317,
+	author = {Aldarmaki, Hanan  and Mohan, Mahesh  and Diab, Mona },
+	title = {Unsupervised Word Mapping Using Structural Similarities in Monolingual Embeddings},
+	journal = {Transactions of the Association for Computational Linguistics},
+	volume = {6},
+	year = {2018},
+	url = {https://www.transacl.org/ojs/index.php/tacl/article/view/1317},
+	pages = {185--196}
 }
 ```
 
